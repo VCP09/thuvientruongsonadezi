@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color:#074590;
+    color: #fff;
+}
+
+.right{
+    display: flex;
+}
+
+.right img{
+    width: 80px;
+    height: 36px;
+    margin-left: 0.5rem;
+}
+
+.right h5{
+    margin-left: 4rem;
+    font-size: 13px;
+    line-height: 36px;
+}
+
+.main{
+    text-align: center;
+}
+
+.main h1{
+    font-size: 2.5rem;
+    padding: 1rem;
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.gioithieu{
+    padding-top: 2rem;
+}
+
+.gioithieu p{
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.col .imgthuvien{
+    width: 500px;
+}
+
+.col img{
+    width: 250px;
+    height: 250px;
+}
+
+.gioithieu{
+    padding: 1rem 0;
+}
+
+.sach{
+    padding: 1rem 0;
+}
+
+h3{
+    background-color: #074590;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin: 1rem auto;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.container{
+    margin-top: 1rem;
+}
